@@ -1,0 +1,28 @@
+# Archivos compilados de Java
+*.class
+
+# Carpetas y archivos generados por NetBeans
+build/
+dist/
+nbproject/private/
+nbbuild/
+nbdist/
+
+# Archivos de empaquetado Java
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+
+# (Opcional) Mantenemos las de IntelliJ por si lo vuelves a abrir
+.idea/
+*.iml
+
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
