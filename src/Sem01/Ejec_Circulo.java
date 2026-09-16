@@ -1,4 +1,4 @@
-package proy_semana01;
+package Sem01;
 
 public class Ejec_Circulo {
 
